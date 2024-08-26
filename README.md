@@ -22,7 +22,7 @@ See our guides in Russian: [BK7231N/T34](https://www.v-elite.ru/t34), and [BL602
 If you want to get some generic information about BK7231 modules, available datasheets, pinout, peripherals, [consult our docs topic](https://www.elektroda.com/rtvforum/topic3951016.html).
 
 
-# [Supported Devices/Templates List](https://openbekeniot.github.io/webapp/devicesList.html) Now with 500+ entries! (Get 🏆[free SD Card](https://www.elektroda.com/rtvforum/topic3950844.html)🏆 for submitting new one!)
+# [Supported Devices/Templates List](https://openbekeniot.github.io/webapp/devicesList.html) Now with 600+ entries! (Get 🏆[free SD Card](https://www.elektroda.com/rtvforum/topic3950844.html)🏆 for submitting new one!)
 We have our own interactive devices database that is maintained by users.
 The database is also accessible from inside our firmware (but requires internet connection to fetch).
 Have a not listed device? HELP US, submit a teardown [here](https://www.elektroda.com/rtvforum/posting.php?mode=newtopic&f=51) and 🏆**get free SD card and gadgets set**🏆 ! Thanks to cooperation with [Elektroda.com](https://www.elektroda.com/), if you submit a detailed teardown/article/review, we can send you [this set of gadgets](https://obrazki.elektroda.pl/1470574200_1670833596.jpg) for free (🚚shipping with normal letter🚚).
@@ -65,6 +65,7 @@ OpenBeken features:
 - WS2812B support, see [scripting tutorial](https://www.elektroda.com/rtvforum/topic4036716.html)
 - LFS and REST API allows you to create and host a custom HTML+CSS+JS page on device with a custom GUI/display of channels/TuyaMCU dpIDs, see [tutorial](https://www.elektroda.com/rtvforum/topic3971355.html) and see [sample page](https://www.elektroda.com/rtvforum/viewtopic.php?p=20932186#20932186) , and see [final version of custom TOMPD-63-WIFI page](https://www.elektroda.com/rtvforum/topic4040354.html)
 - can control 'smart lab organiser drawers' with a custom Drawers driver, see [full presentation](https://www.elektroda.com/rtvforum/topic4054134.html)
+- DHT11 (and family) sensors support, BMP280 support, initial DS18B20 support
 - Can run on Windows with device simulator/schematic drawer, see [tutorial](https://www.elektroda.com/rtvforum/topic4046056.html)
 - and much more
 
